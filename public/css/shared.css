@@ -1,0 +1,24 @@
+
+body {
+    min-height: 100vh;
+    font-family: var(--font-content);
+    font-weight: 300;
+    font-size: 15px;
+}
+
+
+.navigation a, .page-footer a {
+    font-family: var(--font-title);
+    font-weight: 500;
+    color: var(--color-brown);
+    text-shadow: 2px 2px 3px rgba(150, 150, 150, 1);
+}
+
+a:hover {
+    color:white;
+}
+
+
+
+
+

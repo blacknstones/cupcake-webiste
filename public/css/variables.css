@@ -1,0 +1,17 @@
+:root {
+    --color-pink: #ebbab9;
+    --color-beige: #c9c5ba;
+    --color-green: #97b1a6;
+    --color-blue: #698996;
+    --color-brown: #59441f;
+
+
+    --color-pink-rgba: rgba(235,186,185,1);
+    --color-beige-rgba: rgba(201,197,186,1);
+    --color-green-rgba: rgba(151,177,166,1);
+
+
+    --font-title: 'Quicksand', sans-serif; /*font-weight: 300/400/500*/
+    --font-content: 'Lato', sans-serif; /*font-weight: 100/300/400/700*/
+
+}
